@@ -1,1 +1,2 @@
 用Unity引擎完成的一个唐氏小游戏，作为学习使用
+点击gameproject.exe即可启动
